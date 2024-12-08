@@ -50,7 +50,7 @@
   
   <script>
   export default {
-    name: 'Portfolio'
+    name: 'PortfolioPage'
   }
   </script>
   
